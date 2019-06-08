@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/NewPhoneBook.dir/main.cpp.o CMakeFiles/NewPhoneBook.dir/src/humandata.cpp.o CMakeFiles/NewPhoneBook.dir/src/human.cpp.o  -o NewPhoneBook 

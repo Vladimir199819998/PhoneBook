@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/vladimir/Documents/CLionProjects/NewPhoneBook/include/human.h
+humandata.h
+/home/vladimir/Documents/CLionProjects/NewPhoneBook/include/humandata.h
+fstream
+-
+
+/home/vladimir/Documents/CLionProjects/NewPhoneBook/include/humandata.h
+string
+-
+iostream
+-
+
+/home/vladimir/Documents/CLionProjects/NewPhoneBook/main.cpp
+iostream
+-
+fstream
+-
+include/human.h
+/home/vladimir/Documents/CLionProjects/NewPhoneBook/include/human.h
+include/humandata.h
+/home/vladimir/Documents/CLionProjects/NewPhoneBook/include/humandata.h
+vector
+-
+map
+-
+
